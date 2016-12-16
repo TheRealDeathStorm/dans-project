@@ -9,4 +9,5 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /dans-project/wordpress/index.php [L]
 </IfModule>
 
+
 # END WordPress
